@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Pineapple",
+    "count": 27,
+    "price": 7
+  },
+  {
+    "name": "Banana",
+    "count": 13,
+    "price": 5
+  },
+  {
+    "name": "Milk",
+    "count": 28,
+    "price": 4
+  },
+  {
+    "name": "Orange",
+    "count": 16,
+    "price": 6
+  },
+  {
+    "name": "Applea",
+    "count": 35,
+    "price": 4
+  },
+  {
+    "name": "Bannana",
+    "count": 12,
+    "price": 4
+  },
+  {
+    "name": "Vitamins",
+    "count": 30,
+    "price": 11
+  },
+  {
+    "name": "French-fries",
+    "count": 98,
+    "price": 4
+  },
+  {
+    "name": "Apple",
+    "count": 14,
+    "price": 5
+  },
+  {
+    "name": "Fish",
+    "count": 29,
+    "price": 1
+  },
+  {
+    "name": "Fisha",
+    "count": 1,
+    "price": 1
+  }
+]
